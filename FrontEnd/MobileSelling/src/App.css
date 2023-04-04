@@ -1,0 +1,38 @@
+/* ***************************Login form*********************************** */
+.login {
+    min-height: 100vh;
+  }
+  
+  .bg-image {
+    /* background-image: url("https://drive.google.com/file/d/1ce8dcR6L1Z4ISoGCO3Byocyk1ZSk903W/view?usp=sharing"); */
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .login-heading {
+    font-weight: 300;
+  }
+  
+  .newuser-heading {
+    font-weight: 300;
+  }
+  
+  .btn-login {
+    font-size: 0.9rem;
+    letter-spacing: 0.05rem;
+    padding: 0.75rem 1rem;
+  }
+  
+  /* ***************************Card*********************************** */
+  .card-box {
+    width: 17rem;
+    margin: 1.25rem !important;
+    padding: 1.25rem 1.5rem 0.75rem;
+    text-align: left;
+    border-radius: 8px !important;
+  }
+  .card-img {
+    width: 100% !important;
+    border-radius: 6px !important;
+  }
+  

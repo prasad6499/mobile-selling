@@ -1,0 +1,24 @@
+div .bg-image1 {
+    background-image: url('../images/CompanyLog.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 650px;
+    width: 100%;
+    color: white;
+}
+
+.bg-image1 .text-header {
+    float: right;
+    margin-right: 12%;
+    margin-top: 10%;
+    text-align: center;
+}
+.caro{
+    margin-top: 200px;
+}
+  
+  
+.App{
+    background-image: linear-gradient(45deg,#e5e6ec,#f2f231);
+}
